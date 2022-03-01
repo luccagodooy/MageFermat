@@ -5,7 +5,6 @@
 - 📫 How to reach me: 
 -   Discord: MageFermat#6097
 -   E-mail: luccagodooy@protonmail.com
-- 
 
 <!---
 MageFermat/MageFermat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
