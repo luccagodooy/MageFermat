@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding, finance and philosophy.
 - 🌱 I’m currently learning data analytics on Python.
 - 💞️ I’m looking to collaborate on any projects that involve Python and data science.
+- I speak English, Portuguese and can read/write in French and Spanish.
 - 📫 How to reach me: 
 -   Discord: MageFermat#6097
 -   E-mail: luccagodooy@protonmail.com
