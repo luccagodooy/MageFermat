@@ -8,7 +8,7 @@
 -   Discord: MageFermat#6097
 -   E-mail: luccagodooy@protonmail.com
 -   LinkedIn: linkedin.com/in/luccagodoy
-
+-   Kaggle: https://www.kaggle.com/luccagodoy
 <!---
 MageFermat/MageFermat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
